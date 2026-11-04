@@ -18,7 +18,7 @@ Este repositório serve como uma **vitrine de portfólios e projetos web**. Aqui
 
 | Aluno(a) | Nome do Projeto | Links | Tecnologias |
 | :--- | :--- | :---: | :---: |
-| *Exemplo: Gabriel Silva* | *Meu Portfólio* | [🔗 Ver Site](https://exemplo.com) \| [📂 Código](./) | `HTML5` `CSS3` `JS` |
+| *Exemplo: Gabriel Silva* | *Meu Portfólio* | [🔗 Ver Site](https://tabuadasecreta2.vercel.app/) \| [📂 Código]([./](https://github.com/Necromande/criacao-de-site-de-tabuada) | `HTML5` `CSS3` `JS` |
 | | | | |
 | | | | |
 
