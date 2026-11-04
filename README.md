@@ -18,7 +18,7 @@ Este repositório serve como uma **vitrine de portfólios e projetos web**. Aqui
 
 | Aluno(a) | Nome do Projeto | Links | Tecnologias |
 | :--- | :--- | :---: | :---: |
-| *Exemplo: Gabriel Silva* | *Tabuada Acarde* | [🔗 Ver Site](https://tabuadasecreta2.vercel.app/) \| [📂 Código]([./](https://github.com/Necromande/criacao-de-site-de-tabuada)) | `TypeScript` `CSS3` `JavaScript` |
+| *Exemplo: Gabriel Silva* | *Tabuada Acarde* | [🔗 Ver Site](https://tabuadasecreta2.vercel.app/) \| [📂 Código](https://github.com/Necromande/criacao-de-site-de-tabuada) | `TypeScript` `CSS3` `JavaScript` |
 | | | | |
 | | | | |
 
